@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:
+  app:
+    build: ./
+    container_name: timer
+    ports:
+      - '8091:8091'
+    networks:
+      - tg-bot
+
+# создание одной общей сети для всех сервисов
+networks:
+  tg-bot:
+    name: tg-bot
+    driver: bridge

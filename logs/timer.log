@@ -1,0 +1,739 @@
+2023-02-25 01:11:48 DEBUG TimerServiceImpl:22 - http-nio-8091-exec-6
+2023-02-25 01:13:27 DEBUG TimerServiceImpl:22 - http-nio-8091-exec-8
+2023-02-25 01:14:13 DEBUG TimerServiceImpl:22 - http-nio-8091-exec-2
+2023-02-25 01:14:25 DEBUG TimerServiceImpl:29 - http-nio-8091-exec-3
+2023-02-25 01:14:25 DEBUG TimerServiceImpl:34 - http-nio-8091-exec-3-------00:00:11
+2023-02-25 01:14:47 DEBUG TimerServiceImpl:22 - http-nio-8091-exec-1
+2023-02-25 01:15:46 DEBUG TimerServiceImpl:22 - http-nio-8091-exec-3
+2023-02-25 01:15:48 DEBUG TimerServiceImpl:22 - http-nio-8091-exec-4
+2023-02-25 01:15:50 DEBUG TimerServiceImpl:22 - http-nio-8091-exec-5
+2023-02-25 01:16:13 DEBUG TimerServiceImpl:41 - http-nio-8091-exec-6
+2023-02-25 01:22:44 DEBUG TimerServiceImpl:22 - http-nio-8091-exec-2
+2023-02-25 01:22:44 DEBUG TimerServiceImpl:23 - RUNNABLE
+2023-02-25 01:22:44 DEBUG TimerServiceImpl:24 - 27
+2023-02-25 01:22:46 DEBUG TimerServiceImpl:22 - http-nio-8091-exec-3
+2023-02-25 01:22:46 DEBUG TimerServiceImpl:23 - RUNNABLE
+2023-02-25 01:22:46 DEBUG TimerServiceImpl:24 - 28
+2023-02-25 01:22:49 DEBUG TimerServiceImpl:22 - http-nio-8091-exec-4
+2023-02-25 01:22:49 DEBUG TimerServiceImpl:23 - RUNNABLE
+2023-02-25 01:22:49 DEBUG TimerServiceImpl:24 - 29
+2023-02-25 01:23:08 DEBUG TimerServiceImpl:45 - http-nio-8091-exec-5
+2023-02-25 01:23:08 DEBUG TimerServiceImpl:46 - RUNNABLE
+2023-02-25 01:23:08 DEBUG TimerServiceImpl:47 - 30
+2023-02-25 01:23:12 DEBUG TimerServiceImpl:45 - http-nio-8091-exec-6
+2023-02-25 01:23:12 DEBUG TimerServiceImpl:46 - RUNNABLE
+2023-02-25 01:23:12 DEBUG TimerServiceImpl:47 - 31
+2023-02-25 01:23:15 DEBUG TimerServiceImpl:45 - http-nio-8091-exec-7
+2023-02-25 01:23:15 DEBUG TimerServiceImpl:46 - RUNNABLE
+2023-02-25 01:23:15 DEBUG TimerServiceImpl:47 - 32
+2023-02-25 01:23:18 DEBUG TimerServiceImpl:45 - http-nio-8091-exec-10
+2023-02-25 01:23:18 DEBUG TimerServiceImpl:46 - RUNNABLE
+2023-02-25 01:23:18 DEBUG TimerServiceImpl:47 - 35
+2023-02-25 01:23:22 DEBUG TimerServiceImpl:45 - http-nio-8091-exec-9
+2023-02-25 01:23:22 DEBUG TimerServiceImpl:46 - RUNNABLE
+2023-02-25 01:23:22 DEBUG TimerServiceImpl:47 - 34
+2023-02-25 01:23:24 DEBUG TimerServiceImpl:45 - http-nio-8091-exec-8
+2023-02-25 01:23:24 DEBUG TimerServiceImpl:46 - RUNNABLE
+2023-02-25 01:23:24 DEBUG TimerServiceImpl:47 - 33
+2023-02-25 01:23:29 DEBUG TimerServiceImpl:45 - http-nio-8091-exec-1
+2023-02-25 01:23:29 DEBUG TimerServiceImpl:46 - RUNNABLE
+2023-02-25 01:23:29 DEBUG TimerServiceImpl:47 - 26
+2023-02-25 01:23:38 DEBUG TimerServiceImpl:45 - http-nio-8091-exec-2
+2023-02-25 01:23:38 DEBUG TimerServiceImpl:46 - RUNNABLE
+2023-02-25 01:23:38 DEBUG TimerServiceImpl:47 - 27
+2023-02-25 01:23:51 DEBUG TimerServiceImpl:31 - http-nio-8091-exec-3
+2023-02-25 01:23:51 DEBUG TimerServiceImpl:32 - RUNNABLE
+2023-02-25 01:23:51 DEBUG TimerServiceImpl:33 - 28
+2023-02-25 01:23:51 DEBUG TimerServiceImpl:38 - http-nio-8091-exec-3-------00:01:07
+2023-02-25 01:24:01 DEBUG TimerServiceImpl:45 - http-nio-8091-exec-4
+2023-02-25 01:24:01 DEBUG TimerServiceImpl:46 - RUNNABLE
+2023-02-25 01:24:01 DEBUG TimerServiceImpl:47 - 29
+2023-02-25 01:24:10 DEBUG TimerServiceImpl:45 - http-nio-8091-exec-5
+2023-02-25 01:24:10 DEBUG TimerServiceImpl:46 - RUNNABLE
+2023-02-25 01:24:10 DEBUG TimerServiceImpl:47 - 30
+2023-02-25 01:25:55 DEBUG TimerServiceImpl:22 - http-nio-8091-exec-4
+2023-02-25 01:25:55 DEBUG TimerServiceImpl:23 - RUNNABLE
+2023-02-25 01:25:55 DEBUG TimerServiceImpl:24 - 29
+2023-02-25 01:25:57 DEBUG TimerServiceImpl:22 - http-nio-8091-exec-3
+2023-02-25 01:25:57 DEBUG TimerServiceImpl:23 - RUNNABLE
+2023-02-25 01:25:57 DEBUG TimerServiceImpl:24 - 28
+2023-02-25 01:26:00 DEBUG TimerServiceImpl:22 - http-nio-8091-exec-2
+2023-02-25 01:26:00 DEBUG TimerServiceImpl:23 - RUNNABLE
+2023-02-25 01:26:00 DEBUG TimerServiceImpl:24 - 27
+2023-02-25 01:26:04 DEBUG TimerServiceImpl:47 - http-nio-8091-exec-5
+2023-02-25 01:26:04 DEBUG TimerServiceImpl:48 - RUNNABLE
+2023-02-25 01:26:04 DEBUG TimerServiceImpl:49 - 30
+2023-02-25 01:26:05 DEBUG TimerServiceImpl:47 - http-nio-8091-exec-6
+2023-02-25 01:26:05 DEBUG TimerServiceImpl:48 - RUNNABLE
+2023-02-25 01:26:05 DEBUG TimerServiceImpl:49 - 31
+2023-02-25 01:26:06 DEBUG TimerServiceImpl:47 - http-nio-8091-exec-8
+2023-02-25 01:26:06 DEBUG TimerServiceImpl:48 - RUNNABLE
+2023-02-25 01:26:06 DEBUG TimerServiceImpl:49 - 33
+2023-02-25 01:26:06 DEBUG TimerServiceImpl:47 - http-nio-8091-exec-7
+2023-02-25 01:26:06 DEBUG TimerServiceImpl:48 - RUNNABLE
+2023-02-25 01:26:06 DEBUG TimerServiceImpl:49 - 32
+2023-02-25 01:26:07 DEBUG TimerServiceImpl:47 - http-nio-8091-exec-9
+2023-02-25 01:26:07 DEBUG TimerServiceImpl:48 - RUNNABLE
+2023-02-25 01:26:07 DEBUG TimerServiceImpl:49 - 34
+2023-02-25 01:26:07 DEBUG TimerServiceImpl:47 - http-nio-8091-exec-10
+2023-02-25 01:26:07 DEBUG TimerServiceImpl:48 - RUNNABLE
+2023-02-25 01:26:07 DEBUG TimerServiceImpl:49 - 35
+2023-02-25 01:26:08 DEBUG TimerServiceImpl:47 - http-nio-8091-exec-1
+2023-02-25 01:26:08 DEBUG TimerServiceImpl:48 - RUNNABLE
+2023-02-25 01:26:08 DEBUG TimerServiceImpl:49 - 26
+2023-02-25 01:26:16 DEBUG TimerServiceImpl:31 - http-nio-8091-exec-4
+2023-02-25 01:26:16 DEBUG TimerServiceImpl:32 - RUNNABLE
+2023-02-25 01:26:16 DEBUG TimerServiceImpl:33 - 29
+2023-02-25 01:26:16 DEBUG TimerServiceImpl:38 - 1677263155817
+2023-02-25 01:26:16 DEBUG TimerServiceImpl:40 - http-nio-8091-exec-4-------00:00:20
+2023-02-25 01:26:19 DEBUG TimerServiceImpl:47 - http-nio-8091-exec-3
+2023-02-25 01:26:19 DEBUG TimerServiceImpl:48 - RUNNABLE
+2023-02-25 01:26:19 DEBUG TimerServiceImpl:49 - 28
+2023-02-25 01:31:28 DEBUG TimerServiceImpl:23 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 01:31:30 DEBUG TimerServiceImpl:23 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 01:31:32 DEBUG TimerServiceImpl:23 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 01:32:00 DEBUG TimerServiceImpl:42 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 01:32:10 DEBUG TimerServiceImpl:30 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 01:32:10 DEBUG TimerServiceImpl:35 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE ------- 00:00:41
+2023-02-25 01:32:20 DEBUG TimerServiceImpl:42 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 01:32:46 DEBUG TimerServiceImpl:30 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 01:36:14 DEBUG TimerServiceImpl:30 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 01:36:14 ERROR GlobalExceptionHandler:17 - 
+2023-02-25 01:36:56 DEBUG TimerServiceImpl:23 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 01:37:00 DEBUG TimerServiceImpl:23 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 01:37:05 DEBUG TimerServiceImpl:23 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 01:37:10 DEBUG TimerServiceImpl:42 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 01:37:28 DEBUG TimerServiceImpl:30 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 01:37:28 ERROR GlobalExceptionHandler:17 - 
+2023-02-25 01:40:47 DEBUG TimerServiceImpl:30 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 01:40:47 ERROR GlobalExceptionHandler:17 - Таймер по запрашиваемому ключу не запущен! keyObject = stake
+2023-02-25 01:42:29 DEBUG TimerServiceImpl:30 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 01:42:29 ERROR GlobalExceptionHandler:17 - Таймер по запрашиваемому ключу не запущен, keyObject = stake! Сначала запустите таймер!
+2023-02-25 01:42:39 DEBUG TimerServiceImpl:23 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 01:42:49 DEBUG TimerServiceImpl:23 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 01:42:51 DEBUG TimerServiceImpl:23 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 01:42:54 DEBUG TimerServiceImpl:48 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 01:43:23 DEBUG TimerServiceImpl:30 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 01:43:23 DEBUG TimerServiceImpl:41 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE ------- 00:00:44
+2023-02-25 01:43:25 DEBUG TimerServiceImpl:30 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 01:43:25 ERROR GlobalExceptionHandler:17 - Таймер по запрашиваемому ключу не запущен, keyObject = cake! Сначала запустите таймер!
+2023-02-25 03:21:00 DEBUG TimerServiceImpl:23 - ThreadInfo: name = http-nio-8091-exec-2, id = 26, state = RUNNABLE
+2023-02-25 03:21:23 DEBUG TimerServiceImpl:30 - ThreadInfo: name = http-nio-8091-exec-4, id = 28, state = RUNNABLE
+2023-02-25 03:21:23 DEBUG TimerServiceImpl:41 - ThreadInfo: name = http-nio-8091-exec-4, id = 28, state = RUNNABLE ------- 00:00:22
+2023-02-25 03:42:20 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 03:42:22 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 03:42:23 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 03:42:34 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 03:42:34 DEBUG TimerServiceImpl:76 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE ------- 00:00:13
+2023-02-25 03:42:38 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 03:42:38 DEBUG TimerServiceImpl:76 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE ------- 00:00:15
+2023-02-25 03:42:42 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 03:42:42 DEBUG TimerServiceImpl:76 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE ------- 00:00:19
+2023-02-25 03:59:36 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 04:00:21 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-1, id = 25, state = RUNNABLE
+2023-02-25 04:00:22 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-2, id = 26, state = RUNNABLE
+2023-02-25 04:00:23 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-3, id = 27, state = RUNNABLE
+2023-02-25 04:00:25 ERROR GlobalExceptionHandler:17 - Request method 'GET' not supported
+2023-02-25 04:00:43 ERROR GlobalExceptionHandler:17 - Request method 'GET' not supported
+2023-02-25 04:01:38 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-6, id = 30, state = RUNNABLE
+2023-02-25 04:01:38 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-7, id = 31, state = RUNNABLE
+2023-02-25 04:01:48 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-8, id = 32, state = RUNNABLE
+2023-02-25 04:01:49 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-10, id = 34, state = RUNNABLE
+2023-02-25 04:01:49 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-9, id = 33, state = RUNNABLE
+2023-02-25 04:01:50 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-1, id = 25, state = RUNNABLE
+2023-02-25 04:01:50 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-2, id = 26, state = RUNNABLE
+2023-02-25 04:01:54 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-3, id = 27, state = RUNNABLE
+2023-02-25 04:01:56 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-4, id = 28, state = RUNNABLE
+2023-02-25 04:01:57 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-5, id = 29, state = RUNNABLE
+2023-02-25 04:01:59 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-6, id = 30, state = RUNNABLE
+2023-02-25 04:01:59 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-7, id = 31, state = RUNNABLE
+2023-02-25 04:02:47 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-8, id = 32, state = RUNNABLE
+2023-02-25 04:02:50 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-10, id = 34, state = RUNNABLE
+2023-02-25 04:02:51 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-9, id = 33, state = RUNNABLE
+2023-02-25 04:04:02 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-2, id = 26, state = RUNNABLE
+2023-02-25 04:04:17 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-3, id = 27, state = RUNNABLE
+2023-02-25 04:04:23 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-4, id = 28, state = RUNNABLE
+2023-02-25 04:04:23 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-5, id = 29, state = RUNNABLE
+2023-02-25 04:04:29 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-6, id = 30, state = RUNNABLE
+2023-02-25 04:04:30 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-7, id = 31, state = RUNNABLE
+2023-02-25 04:04:30 DEBUG TimerServiceImpl:76 - ThreadInfo: name = http-nio-8091-exec-7, id = 31, state = RUNNABLE ------- 00:00:01
+2023-02-25 04:27:54 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 04:28:01 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 04:28:20 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 04:29:27 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 04:29:29 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 04:29:29 DEBUG TimerServiceImpl:76 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE ------- 00:00:02
+2023-02-25 04:29:31 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 04:29:34 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 04:29:34 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 04:30:11 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 04:30:17 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 04:30:17 DEBUG TimerServiceImpl:76 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE ------- 00:00:05
+2023-02-25 04:30:18 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 04:30:25 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 04:30:25 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 04:31:22 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 04:31:23 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 04:31:23 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 04:31:28 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 04:31:30 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 04:31:30 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 04:31:31 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 04:31:36 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 04:31:42 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 04:31:42 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 04:31:52 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 04:32:17 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 04:32:18 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 04:32:26 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 04:32:26 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 04:33:02 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 04:35:07 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 04:36:53 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 04:36:55 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 04:36:56 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 04:36:56 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 04:37:01 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 04:37:05 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 04:37:05 DEBUG TimerServiceImpl:76 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE ------- 00:00:03
+2023-02-25 04:37:07 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 04:37:12 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 04:37:12 DEBUG TimerServiceImpl:76 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE ------- 00:00:05
+2023-02-25 04:37:15 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 04:39:19 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 04:39:34 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 04:39:36 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 04:39:36 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 04:39:47 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 04:39:49 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 04:39:49 DEBUG TimerServiceImpl:76 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE ------- 00:00:01
+2023-02-25 04:39:55 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 04:41:16 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 04:41:25 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 04:41:29 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 04:41:34 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 04:41:34 DEBUG TimerServiceImpl:76 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE ------- 00:00:05
+2023-02-25 04:41:41 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 04:41:47 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 04:41:52 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 04:41:57 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 04:41:57 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 04:42:11 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 04:42:13 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 04:42:14 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 04:42:18 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 04:42:22 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 04:42:22 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 04:49:20 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 04:49:25 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 04:49:26 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 04:49:26 DEBUG TimerServiceImpl:74 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 20:59:56 DEBUG TimerServiceImpl:109 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 21:00:00 DEBUG TimerServiceImpl:109 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 21:00:00 DEBUG TimerServiceImpl:109 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 21:00:00 DEBUG TimerServiceImpl:69 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:00:00 DEBUG TimerServiceImpl:111 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE ------- 01 00:00:03
+2023-02-25 21:06:51 DEBUG TimerServiceImpl:109 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 21:06:53 DEBUG TimerServiceImpl:109 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 21:06:55 DEBUG TimerServiceImpl:109 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 21:06:55 DEBUG TimerServiceImpl:109 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 21:06:55 DEBUG TimerServiceImpl:69 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:06:55 DEBUG TimerServiceImpl:111 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE ------- 01 00:00:03
+2023-02-25 21:16:06 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-1, id = 27, state = RUNNABLE
+2023-02-25 21:16:10 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-2, id = 28, state = RUNNABLE
+2023-02-25 21:16:10 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-2, id = 28, state = RUNNABLE
+2023-02-25 21:16:10 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:16:10 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-2, id = 28, state = RUNNABLE ------- 01 00:00:03
+2023-02-25 21:24:34 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 21:24:35 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 21:24:35 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 21:24:35 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:24:35 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE ------- 01 00:00:01
+2023-02-25 21:25:00 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 21:25:01 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 21:25:02 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 21:25:17 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 21:25:17 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 21:25:17 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:25:17 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE ------- 01 00:00:15
+2023-02-25 21:25:28 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 21:25:28 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 21:25:28 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:25:28 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE ------- 01 00:00:27
+2023-02-25 21:25:35 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 21:25:35 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 21:25:35 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:25:35 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE ------- 01 00:00:33
+2023-02-25 21:35:16 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 21:35:20 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 21:35:20 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 21:35:20 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:35:20 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE ------- 01 00:00:04
+2023-02-25 21:35:26 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 21:35:27 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 21:35:29 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 21:35:29 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 21:35:29 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:35:29 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE ------- 01 00:00:03
+2023-02-25 21:35:30 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 21:35:30 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 21:35:30 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:35:30 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE ------- 01 00:00:03
+2023-02-25 21:38:49 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 21:38:54 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 21:38:55 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 21:38:59 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 21:38:59 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 21:38:59 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:38:59 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE ------- 01 00:00:09
+2023-02-25 21:39:01 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 21:39:01 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 21:39:01 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:39:01 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE ------- 01 00:00:06
+2023-02-25 21:39:02 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 21:39:02 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 21:39:02 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:39:02 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE ------- 01 00:00:07
+2023-02-25 21:44:38 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 21:44:38 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 21:44:39 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 21:44:40 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 21:44:40 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 21:44:40 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:44:40 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE ------- 01 00:00:01
+2023-02-25 21:44:42 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 21:44:42 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 21:44:42 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:44:42 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE ------- 01 00:00:03
+2023-02-25 21:44:43 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 21:44:43 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 21:44:43 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:44:43 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE ------- 01 00:00:03
+2023-02-25 21:44:44 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 21:49:23 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 21:49:23 ERROR GlobalExceptionHandler:22 - Таймер по запрашиваемому ключу не запущен, keyObject = STAKE! Сначала запустите таймер!
+2023-02-25 21:49:24 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 21:49:26 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 21:49:27 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 21:49:29 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 21:49:29 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 21:49:29 ERROR GlobalExceptionHandler:22 - Illegal pattern character 'T'
+2023-02-25 21:49:30 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 21:49:30 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 21:49:30 ERROR GlobalExceptionHandler:22 - Illegal pattern character 'T'
+2023-02-25 21:49:31 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 21:49:31 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 21:49:31 ERROR GlobalExceptionHandler:22 - Illegal pattern character 'T'
+2023-02-25 21:50:22 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-1, id = 25, state = RUNNABLE
+2023-02-25 21:50:23 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-2, id = 26, state = RUNNABLE
+2023-02-25 21:50:24 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 27, state = RUNNABLE
+2023-02-25 21:50:29 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-4, id = 28, state = RUNNABLE
+2023-02-25 21:50:29 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-4, id = 28, state = RUNNABLE
+2023-02-25 21:50:29 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:50:29 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-4, id = 28, state = RUNNABLE ------- 01 00:00:06
+2023-02-25 21:50:30 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-5, id = 29, state = RUNNABLE
+2023-02-25 21:50:30 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-5, id = 29, state = RUNNABLE
+2023-02-25 21:50:30 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:50:30 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-5, id = 29, state = RUNNABLE ------- 01 00:00:06
+2023-02-25 21:50:32 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-8, id = 32, state = RUNNABLE
+2023-02-25 21:50:32 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-8, id = 32, state = RUNNABLE
+2023-02-25 21:50:32 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 21:50:32 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-8, id = 32, state = RUNNABLE ------- 01 00:00:08
+2023-02-25 22:12:24 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-1, id = 28, state = RUNNABLE
+2023-02-25 22:12:24 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-2, id = 29, state = RUNNABLE
+2023-02-25 22:12:26 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 30, state = RUNNABLE
+2023-02-25 22:12:28 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-5, id = 32, state = RUNNABLE
+2023-02-25 22:12:28 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-5, id = 32, state = RUNNABLE
+2023-02-25 22:12:28 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:12:28 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-5, id = 32, state = RUNNABLE ------- 01 00:00:03
+2023-02-25 22:12:34 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-4, id = 31, state = RUNNABLE
+2023-02-25 22:12:34 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-4, id = 31, state = RUNNABLE
+2023-02-25 22:12:34 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:12:34 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-4, id = 31, state = RUNNABLE ------- 01 00:00:08
+2023-02-25 22:12:35 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-6, id = 33, state = RUNNABLE
+2023-02-25 22:12:35 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-6, id = 33, state = RUNNABLE
+2023-02-25 22:12:35 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:12:35 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-6, id = 33, state = RUNNABLE ------- 01 00:00:10
+2023-02-25 22:14:46 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-8, id = 35, state = RUNNABLE
+2023-02-25 22:14:47 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-9, id = 36, state = RUNNABLE
+2023-02-25 22:14:48 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-10, id = 37, state = RUNNABLE
+2023-02-25 22:14:56 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-1, id = 28, state = RUNNABLE
+2023-02-25 22:14:56 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-1, id = 28, state = RUNNABLE
+2023-02-25 22:14:56 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:14:56 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-1, id = 28, state = RUNNABLE ------- 01 00:00:09
+2023-02-25 22:14:56 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-2, id = 29, state = RUNNABLE
+2023-02-25 22:14:56 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-2, id = 29, state = RUNNABLE
+2023-02-25 22:14:56 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:14:56 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-2, id = 29, state = RUNNABLE ------- 01 00:00:08
+2023-02-25 22:14:56 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 30, state = RUNNABLE
+2023-02-25 22:14:56 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 30, state = RUNNABLE
+2023-02-25 22:14:56 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:14:56 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-3, id = 30, state = RUNNABLE ------- 01 00:00:08
+2023-02-25 22:16:11 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-4, id = 31, state = RUNNABLE
+2023-02-25 22:16:12 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-6, id = 33, state = RUNNABLE
+2023-02-25 22:16:13 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-7, id = 34, state = RUNNABLE
+2023-02-25 22:16:23 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-8, id = 35, state = RUNNABLE
+2023-02-25 22:16:23 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-8, id = 35, state = RUNNABLE
+2023-02-25 22:16:23 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:16:23 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-8, id = 35, state = RUNNABLE ------- 01 00:00:11
+2023-02-25 22:16:32 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-9, id = 36, state = RUNNABLE
+2023-02-25 22:16:32 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-9, id = 36, state = RUNNABLE
+2023-02-25 22:16:32 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:16:32 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-9, id = 36, state = RUNNABLE ------- 01 00:00:19
+2023-02-25 22:16:33 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-10, id = 37, state = RUNNABLE
+2023-02-25 22:16:33 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-10, id = 37, state = RUNNABLE
+2023-02-25 22:16:33 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:16:33 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-10, id = 37, state = RUNNABLE ------- 01 00:00:21
+2023-02-25 22:20:59 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-2, id = 29, state = RUNNABLE
+2023-02-25 22:21:00 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 30, state = RUNNABLE
+2023-02-25 22:21:00 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 30, state = RUNNABLE
+2023-02-25 22:21:00 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:21:00 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-3, id = 30, state = RUNNABLE ------- 01 00:00:01
+2023-02-25 22:35:46 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-4, id = 31, state = RUNNABLE
+2023-02-25 22:35:46 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-6, id = 33, state = RUNNABLE
+2023-02-25 22:35:47 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-7, id = 34, state = RUNNABLE
+2023-02-25 22:35:54 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-8, id = 35, state = RUNNABLE
+2023-02-25 22:35:54 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-8, id = 35, state = RUNNABLE
+2023-02-25 22:35:54 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:35:54 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-8, id = 35, state = RUNNABLE ------- 01 00:00:08
+2023-02-25 22:35:55 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-9, id = 36, state = RUNNABLE
+2023-02-25 22:35:55 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-9, id = 36, state = RUNNABLE
+2023-02-25 22:35:55 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:35:55 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-9, id = 36, state = RUNNABLE ------- 01 00:00:08
+2023-02-25 22:35:56 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-10, id = 37, state = RUNNABLE
+2023-02-25 22:35:56 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-10, id = 37, state = RUNNABLE
+2023-02-25 22:35:56 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:35:56 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-10, id = 37, state = RUNNABLE ------- 01 00:00:08
+2023-02-25 22:37:31 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-2, id = 29, state = RUNNABLE
+2023-02-25 22:37:31 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 30, state = RUNNABLE
+2023-02-25 22:37:32 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-5, id = 32, state = RUNNABLE
+2023-02-25 22:37:44 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-4, id = 31, state = RUNNABLE
+2023-02-25 22:37:44 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-4, id = 31, state = RUNNABLE
+2023-02-25 22:37:44 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:37:44 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-4, id = 31, state = RUNNABLE ------- 01 00:00:12
+2023-02-25 22:37:48 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-6, id = 33, state = RUNNABLE
+2023-02-25 22:37:48 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-6, id = 33, state = RUNNABLE
+2023-02-25 22:37:48 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:37:48 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-6, id = 33, state = RUNNABLE ------- 01 00:00:16
+2023-02-25 22:37:51 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-7, id = 34, state = RUNNABLE
+2023-02-25 22:37:51 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-7, id = 34, state = RUNNABLE
+2023-02-25 22:37:51 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:37:51 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-7, id = 34, state = RUNNABLE ------- 01 00:00:18
+2023-02-25 22:38:41 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-8, id = 35, state = RUNNABLE
+2023-02-25 22:38:42 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-9, id = 36, state = RUNNABLE
+2023-02-25 22:38:43 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-10, id = 37, state = RUNNABLE
+2023-02-25 22:38:52 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-1, id = 28, state = RUNNABLE
+2023-02-25 22:38:52 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-1, id = 28, state = RUNNABLE
+2023-02-25 22:38:53 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:38:53 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-1, id = 28, state = RUNNABLE ------- 01 00:00:11
+2023-02-25 22:38:53 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-2, id = 29, state = RUNNABLE
+2023-02-25 22:38:53 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-2, id = 29, state = RUNNABLE
+2023-02-25 22:38:53 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:38:53 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-2, id = 29, state = RUNNABLE ------- 01 00:00:11
+2023-02-25 22:38:55 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 30, state = RUNNABLE
+2023-02-25 22:38:55 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 30, state = RUNNABLE
+2023-02-25 22:38:55 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:38:55 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-3, id = 30, state = RUNNABLE ------- 01 00:00:11
+2023-02-25 22:40:01 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 22:40:08 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 22:40:08 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 22:40:08 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:40:08 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE ------- 01 00:00:06
+2023-02-25 22:44:02 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 22:44:03 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 22:44:19 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 22:44:19 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 22:44:19 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:44:19 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE ------- 01 00:00:16
+2023-02-25 22:44:20 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 22:44:20 DEBUG TimerServiceImpl:110 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 22:44:20 DEBUG TimerServiceImpl:70 - при сохранении данных в БД возникла ошибка
+2023-02-25 22:44:20 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE ------- 01 00:00:17
+2023-02-25 22:55:40 DEBUG TimerServiceImpl:119 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 22:55:41 DEBUG TimerServiceImpl:119 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 22:56:18 DEBUG TimerServiceImpl:119 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 22:56:18 ERROR GlobalExceptionHandler:22 - Conversion = ' '
+2023-02-25 22:56:20 DEBUG TimerServiceImpl:119 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 22:56:20 ERROR GlobalExceptionHandler:22 - Conversion = ' '
+2023-02-25 23:00:43 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-1, id = 25, state = RUNNABLE
+2023-02-25 23:00:44 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-7, id = 31, state = RUNNABLE
+2023-02-25 23:00:51 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-6, id = 30, state = RUNNABLE
+2023-02-25 23:00:51 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-6, id = 30, state = RUNNABLE
+2023-02-25 23:00:51 DEBUG TimerServiceImpl:71 - при сохранении данных в БД возникла ошибка
+2023-02-25 23:00:51 DEBUG TimerServiceImpl:118 - ThreadInfo: name = http-nio-8091-exec-6, id = 30, state = RUNNABLE ------- 0 часов, 0 минут, 7 секунд
+2023-02-25 23:01:03 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-3, id = 27, state = RUNNABLE
+2023-02-25 23:01:03 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-3, id = 27, state = RUNNABLE
+2023-02-25 23:01:03 DEBUG TimerServiceImpl:71 - при сохранении данных в БД возникла ошибка
+2023-02-25 23:01:03 DEBUG TimerServiceImpl:118 - ThreadInfo: name = http-nio-8091-exec-3, id = 27, state = RUNNABLE ------- 0 часов, 0 минут, 19 секунд
+2023-02-25 23:03:06 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-4, id = 28, state = RUNNABLE
+2023-02-25 23:03:07 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-5, id = 29, state = RUNNABLE
+2023-02-25 23:03:30 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-2, id = 26, state = RUNNABLE
+2023-02-25 23:03:30 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-2, id = 26, state = RUNNABLE
+2023-02-25 23:03:30 DEBUG TimerServiceImpl:71 - при сохранении данных в БД возникла ошибка
+2023-02-25 23:03:30 DEBUG TimerServiceImpl:118 - ThreadInfo: name = http-nio-8091-exec-2, id = 26, state = RUNNABLE ------- 0 часов, 0 минут, 22 секунд
+2023-02-25 23:03:36 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-10, id = 34, state = RUNNABLE
+2023-02-25 23:03:36 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-10, id = 34, state = RUNNABLE
+2023-02-25 23:03:36 DEBUG TimerServiceImpl:71 - при сохранении данных в БД возникла ошибка
+2023-02-25 23:03:36 DEBUG TimerServiceImpl:118 - ThreadInfo: name = http-nio-8091-exec-10, id = 34, state = RUNNABLE ------- 0 часов, 0 минут, 30 секунд
+2023-02-25 23:08:09 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 23:08:11 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 23:08:11 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 23:08:53 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 23:08:53 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 23:08:53 DEBUG TimerServiceImpl:71 - при сохранении данных в БД возникла ошибка
+2023-02-25 23:08:53 DEBUG TimerServiceImpl:118 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE ------- 0 часов, 0 минут, 44 секунд
+2023-02-25 23:08:55 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 23:08:55 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 23:08:55 DEBUG TimerServiceImpl:71 - при сохранении данных в БД возникла ошибка
+2023-02-25 23:08:55 DEBUG TimerServiceImpl:118 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE ------- 0 часов, 0 минут, 44 секунд
+2023-02-25 23:08:58 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 23:08:58 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 23:08:58 DEBUG TimerServiceImpl:71 - при сохранении данных в БД возникла ошибка
+2023-02-25 23:08:58 DEBUG TimerServiceImpl:118 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE ------- 0 часов, 0 минут, 46 секунд
+2023-02-25 23:10:28 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 23:10:28 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 23:10:30 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 23:11:14 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 23:11:14 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 23:11:14 DEBUG TimerServiceImpl:71 - при сохранении данных в БД возникла ошибка
+2023-02-25 23:11:14 DEBUG TimerServiceImpl:118 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE ------- 0 часов, 0 минут, 45 секунд
+2023-02-25 23:11:19 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 23:11:19 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 23:11:19 DEBUG TimerServiceImpl:71 - при сохранении данных в БД возникла ошибка
+2023-02-25 23:11:19 DEBUG TimerServiceImpl:118 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE ------- 0 часов, 0 минут, 48 секунд
+2023-02-25 23:11:30 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 23:11:30 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 23:11:30 DEBUG TimerServiceImpl:71 - при сохранении данных в БД возникла ошибка
+2023-02-25 23:11:30 DEBUG TimerServiceImpl:118 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE ------- 0 часов, 1 минут, 1 секунд
+2023-02-25 23:13:07 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 23:13:08 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 23:13:08 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 23:13:34 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 23:13:34 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 23:13:34 DEBUG TimerServiceImpl:71 - при сохранении данных в БД возникла ошибка
+2023-02-25 23:13:34 DEBUG TimerServiceImpl:118 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE ------- 0 часов, 0 минут, 26 секунд
+2023-02-25 23:13:39 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 23:13:39 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 23:13:40 DEBUG TimerServiceImpl:71 - при сохранении данных в БД возникла ошибка
+2023-02-25 23:13:40 DEBUG TimerServiceImpl:118 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE ------- 0 часов, 0 минут, 30 секунд
+2023-02-25 23:13:43 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 23:13:43 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 23:13:43 DEBUG TimerServiceImpl:71 - при сохранении данных в БД возникла ошибка
+2023-02-25 23:13:43 DEBUG TimerServiceImpl:118 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE ------- 0 часов, 0 минут, 35 секунд
+2023-02-25 23:13:53 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 23:14:08 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 23:14:11 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 23:14:11 DEBUG TimerServiceImpl:116 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 23:19:08 DEBUG TimerServiceImpl:117 - ThreadInfo: name = http-nio-8091-exec-2, id = 26, state = RUNNABLE
+2023-02-25 23:19:10 DEBUG TimerServiceImpl:117 - ThreadInfo: name = http-nio-8091-exec-1, id = 25, state = RUNNABLE
+2023-02-25 23:19:11 DEBUG TimerServiceImpl:117 - ThreadInfo: name = http-nio-8091-exec-3, id = 27, state = RUNNABLE
+2023-02-25 23:20:05 DEBUG TimerServiceImpl:117 - ThreadInfo: name = http-nio-8091-exec-4, id = 28, state = RUNNABLE
+2023-02-25 23:20:05 DEBUG TimerServiceImpl:117 - ThreadInfo: name = http-nio-8091-exec-4, id = 28, state = RUNNABLE
+2023-02-25 23:20:05 DEBUG TimerServiceImpl:70 - Запрос сохранения сущности с entity: <TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T16:19:08, totalTime=57106),[]>rsl = Таймер успешно сохранен
+2023-02-25 23:20:05 DEBUG TimerServiceImpl:119 - ThreadInfo: name = http-nio-8091-exec-4, id = 28, state = RUNNABLE ------- 0 часов, 0 минут, 57 секунд
+2023-02-25 23:20:19 DEBUG TimerServiceImpl:117 - ThreadInfo: name = http-nio-8091-exec-6, id = 30, state = RUNNABLE
+2023-02-25 23:20:19 DEBUG TimerServiceImpl:117 - ThreadInfo: name = http-nio-8091-exec-6, id = 30, state = RUNNABLE
+2023-02-25 23:20:19 DEBUG TimerServiceImpl:70 - Запрос сохранения сущности с entity: <TimerDto(typeObject=CAKE, startDate=2023-02-25T16:19:10, totalTime=69445),[]>rsl = Таймер успешно сохранен
+2023-02-25 23:20:19 DEBUG TimerServiceImpl:119 - ThreadInfo: name = http-nio-8091-exec-6, id = 30, state = RUNNABLE ------- 0 часов, 1 минут, 9 секунд
+2023-02-25 23:20:21 DEBUG TimerServiceImpl:117 - ThreadInfo: name = http-nio-8091-exec-5, id = 29, state = RUNNABLE
+2023-02-25 23:20:21 DEBUG TimerServiceImpl:117 - ThreadInfo: name = http-nio-8091-exec-5, id = 29, state = RUNNABLE
+2023-02-25 23:20:21 DEBUG TimerServiceImpl:70 - Запрос сохранения сущности с entity: <TimerDto(typeObject=STAKE, startDate=2023-02-25T16:19:11, totalTime=70401),[]>rsl = Таймер успешно сохранен
+2023-02-25 23:20:21 DEBUG TimerServiceImpl:119 - ThreadInfo: name = http-nio-8091-exec-5, id = 29, state = RUNNABLE ------- 0 часов, 1 минут, 10 секунд
+2023-02-25 23:22:47 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 23:22:48 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 23:22:49 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 23:23:21 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 23:23:21 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 23:23:21 DEBUG TimerServiceImpl:65 - Запрос сохранения сущности с entity: <TimerDto(typeObject=DUMPLINGS, startDate=2023-02-25T16:22:47, totalTime=34366),[]>rsl = Таймер успешно сохранен
+2023-02-25 23:23:21 DEBUG TimerServiceImpl:114 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE ------- 0 часов, 0 минут, 34 секунд
+2023-02-25 23:23:22 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 23:23:22 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 23:23:22 DEBUG TimerServiceImpl:65 - Запрос сохранения сущности с entity: <TimerDto(typeObject=CAKE, startDate=2023-02-25T16:22:48, totalTime=34123),[]>rsl = Таймер успешно сохранен
+2023-02-25 23:23:22 DEBUG TimerServiceImpl:114 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE ------- 0 часов, 0 минут, 34 секунд
+2023-02-25 23:23:23 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 23:23:23 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 23:23:23 DEBUG TimerServiceImpl:65 - Запрос сохранения сущности с entity: <TimerDto(typeObject=STAKE, startDate=2023-02-25T16:22:49, totalTime=34532),[]>rsl = Таймер успешно сохранен
+2023-02-25 23:23:23 DEBUG TimerServiceImpl:114 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE ------- 0 часов, 0 минут, 34 секунд
+2023-02-25 23:25:05 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 23:25:07 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 23:25:07 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 23:25:07 DEBUG TimerServiceImpl:65 - Запрос сохранения сущности с entity: <TimerDto(typeObject=CAKE, startDate=2023-02-25T16:25:05, totalTime=1617),[]>rsl = Таймер успешно сохранен
+2023-02-25 23:25:07 DEBUG TimerServiceImpl:114 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE ------- 0 часов, 0 минут, 1 секунд
+2023-02-25 23:25:15 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 23:25:29 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 23:25:35 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-25 23:25:35 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-3, id = 28, state = RUNNABLE
+2023-02-25 23:25:38 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-25 23:25:40 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 23:25:40 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-25 23:25:40 DEBUG TimerServiceImpl:65 - Запрос сохранения сущности с entity: <TimerDto(typeObject=STAKE, startDate=2023-02-25T16:25:38, totalTime=2674),[]>rsl = Таймер успешно сохранен
+2023-02-25 23:25:40 DEBUG TimerServiceImpl:114 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE ------- 0 часов, 0 минут, 2 секунд
+2023-02-25 23:25:45 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-25 23:25:47 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 23:25:47 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE
+2023-02-25 23:25:48 DEBUG TimerServiceImpl:65 - Запрос сохранения сущности с entity: <TimerDto(typeObject=STAKE, startDate=2023-02-25T16:25:45, totalTime=2239),[]>rsl = Таймер успешно сохранен
+2023-02-25 23:25:48 DEBUG TimerServiceImpl:114 - ThreadInfo: name = http-nio-8091-exec-9, id = 34, state = RUNNABLE ------- 0 часов, 0 минут, 2 секунд
+2023-02-25 23:25:51 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-25 23:25:55 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 23:25:55 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE
+2023-02-25 23:25:55 DEBUG TimerServiceImpl:65 - Запрос сохранения сущности с entity: <TimerDto(typeObject=CAKE, startDate=2023-02-25T16:25:51, totalTime=4084),[]>rsl = Таймер успешно сохранен
+2023-02-25 23:25:55 DEBUG TimerServiceImpl:114 - ThreadInfo: name = http-nio-8091-exec-7, id = 32, state = RUNNABLE ------- 0 часов, 0 минут, 4 секунд
+2023-02-25 23:26:02 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-10, id = 35, state = RUNNABLE
+2023-02-25 23:26:04 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 23:26:04 DEBUG TimerServiceImpl:112 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-25 23:26:04 DEBUG TimerServiceImpl:65 - Запрос сохранения сущности с entity: <TimerDto(typeObject=STAKE, startDate=2023-02-25T16:26:02, totalTime=1789),[]>rsl = Таймер успешно сохранен
+2023-02-25 23:26:04 DEBUG TimerServiceImpl:114 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE ------- 0 часов, 0 минут, 1 секунд
+2023-02-26 23:18:39 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-1, id = 25, state = RUNNABLE
+2023-02-26 23:18:40 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-2, id = 26, state = RUNNABLE
+2023-02-26 23:18:54 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-3, id = 27, state = RUNNABLE
+2023-02-26 23:18:54 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-3, id = 27, state = RUNNABLE
+2023-02-26 23:18:54 DEBUG ArchivistRequestWrapper:30 - Запрос сохранения сущности с entity: <TimerDto(typeObject=DUMPLINGS, startDate=2023-02-26T16:18:39, totalTime=15156),[]>rsl = Таймер успешно сохранен
+2023-02-26 23:18:54 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-26 23:18:54 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-3, id = 27, state = RUNNABLE ------- 0 часов, 0 минут, 15 секунд
+2023-02-26 23:19:05 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-4, id = 28, state = RUNNABLE
+2023-02-26 23:19:05 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-4, id = 28, state = RUNNABLE
+2023-02-26 23:19:05 DEBUG ArchivistRequestWrapper:30 - Запрос сохранения сущности с entity: <TimerDto(typeObject=CAKE, startDate=2023-02-26T16:18:40, totalTime=25553),[]>rsl = Таймер успешно сохранен
+2023-02-26 23:19:05 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-26 23:19:05 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-4, id = 28, state = RUNNABLE ------- 0 часов, 0 минут, 25 секунд
+2023-02-26 23:20:24 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-5, id = 29, state = RUNNABLE
+2023-02-26 23:20:29 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-7, id = 31, state = RUNNABLE
+2023-02-26 23:20:38 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-8, id = 32, state = RUNNABLE
+2023-02-26 23:20:38 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-8, id = 32, state = RUNNABLE
+2023-02-26 23:20:38 DEBUG ArchivistRequestWrapper:30 - Запрос сохранения сущности с entity: <TimerDto(typeObject=DUMPLINGS, startDate=2023-02-26T16:20:24, totalTime=14373),[]>rsl = Таймер успешно сохранен
+2023-02-26 23:20:38 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-26 23:20:38 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-8, id = 32, state = RUNNABLE ------- 0 часов, 0 минут, 14 секунд
+2023-02-26 23:20:40 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-9, id = 33, state = RUNNABLE
+2023-02-26 23:20:40 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-9, id = 33, state = RUNNABLE
+2023-02-26 23:20:40 DEBUG ArchivistRequestWrapper:30 - Запрос сохранения сущности с entity: <TimerDto(typeObject=CAKE, startDate=2023-02-26T16:20:29, totalTime=10642),[]>rsl = Таймер успешно сохранен
+2023-02-26 23:20:40 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-26 23:20:40 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-9, id = 33, state = RUNNABLE ------- 0 часов, 0 минут, 10 секунд
+2023-02-27 17:27:41 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-1, id = 27, state = RUNNABLE
+2023-02-27 17:27:42 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-2, id = 28, state = RUNNABLE
+2023-02-27 17:27:42 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-3, id = 29, state = RUNNABLE
+2023-02-27 17:28:10 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-4, id = 30, state = RUNNABLE
+2023-02-27 17:28:10 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-4, id = 30, state = RUNNABLE
+2023-02-27 17:28:10 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=DUMPLINGS, startDate=2023-02-27T10:27:41, totalTime=28595),[]>rsl = Таймер успешно сохранен
+2023-02-27 17:28:10 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 17:28:10 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-4, id = 30, state = RUNNABLE ------- 0 часов, 0 минут, 28 секунд
+2023-02-27 17:28:11 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-5, id = 31, state = RUNNABLE
+2023-02-27 17:28:11 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-5, id = 31, state = RUNNABLE
+2023-02-27 17:28:11 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=CAKE, startDate=2023-02-27T10:27:42, totalTime=29712),[]>rsl = Таймер успешно сохранен
+2023-02-27 17:28:11 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 17:28:11 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-5, id = 31, state = RUNNABLE ------- 0 часов, 0 минут, 29 секунд
+2023-02-27 17:28:14 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-6, id = 32, state = RUNNABLE
+2023-02-27 17:28:14 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-6, id = 32, state = RUNNABLE
+2023-02-27 17:28:14 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=STAKE, startDate=2023-02-27T10:27:42, totalTime=31930),[]>rsl = Таймер успешно сохранен
+2023-02-27 17:28:14 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 17:28:14 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-6, id = 32, state = RUNNABLE ------- 0 часов, 0 минут, 31 секунд
+2023-02-27 18:47:25 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-1, id = 27, state = RUNNABLE
+2023-02-27 18:47:29 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-2, id = 28, state = RUNNABLE
+2023-02-27 18:47:36 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-3, id = 29, state = RUNNABLE
+2023-02-27 18:47:36 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-3, id = 29, state = RUNNABLE
+2023-02-27 18:47:36 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=DUMPLINGS, startDate=2023-02-27T11:47:25, totalTime=10756),[]>rsl = Таймер успешно сохранен
+2023-02-27 18:47:36 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 18:47:36 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-3, id = 29, state = RUNNABLE ------- 0 часов, 0 минут, 10 секунд
+2023-02-27 18:47:43 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-4, id = 30, state = RUNNABLE
+2023-02-27 18:47:43 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-4, id = 30, state = RUNNABLE
+2023-02-27 18:47:43 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=CAKE, startDate=2023-02-27T11:47:29, totalTime=14747),[]>rsl = Таймер успешно сохранен
+2023-02-27 18:47:43 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 18:47:43 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-4, id = 30, state = RUNNABLE ------- 0 часов, 0 минут, 14 секунд
+2023-02-27 18:47:45 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-5, id = 31, state = RUNNABLE
+2023-02-27 18:48:10 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-6, id = 32, state = RUNNABLE
+2023-02-27 18:48:10 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-6, id = 32, state = RUNNABLE
+2023-02-27 18:48:10 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=STAKE, startDate=2023-02-27T11:47:45, totalTime=24892),[]>rsl = Таймер успешно сохранен
+2023-02-27 18:48:10 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 18:48:10 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-6, id = 32, state = RUNNABLE ------- 0 часов, 0 минут, 24 секунд
+2023-02-27 21:51:54 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-1, id = 26, state = RUNNABLE
+2023-02-27 21:53:16 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-27 21:53:16 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE
+2023-02-27 21:53:16 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=DUMPLINGS, startDate=2023-02-27T14:51:54, totalTime=81766),[]>rsl = Таймер успешно сохранен
+2023-02-27 21:53:16 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 21:53:16 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-2, id = 27, state = RUNNABLE ------- 0 часов, 1 минут, 21 секунд
+2023-02-27 21:53:24 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-4, id = 29, state = RUNNABLE
+2023-02-27 21:53:25 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-5, id = 30, state = RUNNABLE
+2023-02-27 21:53:41 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-27 21:53:41 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE
+2023-02-27 21:53:41 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=CAKE, startDate=2023-02-27T14:53:24, totalTime=16408),[]>rsl = Таймер успешно сохранен
+2023-02-27 21:53:41 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 21:53:41 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-6, id = 31, state = RUNNABLE ------- 0 часов, 0 минут, 16 секунд
+2023-02-27 21:53:46 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-27 21:53:46 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE
+2023-02-27 21:53:46 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=STAKE, startDate=2023-02-27T14:53:25, totalTime=21297),[]>rsl = Таймер успешно сохранен
+2023-02-27 21:53:46 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 21:53:46 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-8, id = 33, state = RUNNABLE ------- 0 часов, 0 минут, 21 секунд
+2023-02-27 22:19:02 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-2, id = 30, state = RUNNABLE
+2023-02-27 22:29:42 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-3, id = 31, state = RUNNABLE
+2023-02-27 22:29:46 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-5, id = 33, state = RUNNABLE
+2023-02-27 22:29:49 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-6, id = 34, state = RUNNABLE
+2023-02-27 22:29:59 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-8, id = 36, state = RUNNABLE
+2023-02-27 22:29:59 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-8, id = 36, state = RUNNABLE
+2023-02-27 22:30:00 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=DUMPLINGS, startDate=2023-02-27T15:29:42, totalTime=17011),[]>rsl = Таймер успешно сохранен
+2023-02-27 22:30:00 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 22:30:00 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-8, id = 36, state = RUNNABLE ------- 0 часов, 0 минут, 17 секунд
+2023-02-27 22:30:07 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-9, id = 37, state = RUNNABLE
+2023-02-27 22:30:07 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-9, id = 37, state = RUNNABLE
+2023-02-27 22:30:07 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=CAKE, startDate=2023-02-27T15:29:46, totalTime=21413),[]>rsl = Таймер успешно сохранен
+2023-02-27 22:30:07 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 22:30:07 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-9, id = 37, state = RUNNABLE ------- 0 часов, 0 минут, 21 секунд
+2023-02-27 22:30:36 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-4, id = 32, state = RUNNABLE
+2023-02-27 22:30:36 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-4, id = 32, state = RUNNABLE
+2023-02-27 22:30:36 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=STAKE, startDate=2023-02-27T15:29:49, totalTime=47414),[]>rsl = Таймер успешно сохранен
+2023-02-27 22:30:36 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 22:30:36 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-4, id = 32, state = RUNNABLE ------- 0 часов, 0 минут, 47 секунд
+2023-02-27 22:38:13 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-10, id = 38, state = RUNNABLE
+2023-02-27 22:38:14 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-2, id = 30, state = RUNNABLE
+2023-02-27 22:38:15 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-1, id = 29, state = RUNNABLE
+2023-02-27 22:38:31 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-3, id = 31, state = RUNNABLE
+2023-02-27 22:38:31 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-3, id = 31, state = RUNNABLE
+2023-02-27 22:38:31 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=DUMPLINGS, startDate=2023-02-27T15:38:13, totalTime=17489),[]>rsl = Таймер успешно сохранен
+2023-02-27 22:38:31 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 22:38:31 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-3, id = 31, state = RUNNABLE ------- 0 часов, 0 минут, 17 секунд
+2023-02-27 22:38:37 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-5, id = 33, state = RUNNABLE
+2023-02-27 22:38:37 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-5, id = 33, state = RUNNABLE
+2023-02-27 22:38:37 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=CAKE, startDate=2023-02-27T15:38:14, totalTime=22357),[]>rsl = Таймер успешно сохранен
+2023-02-27 22:38:37 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 22:38:37 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-5, id = 33, state = RUNNABLE ------- 0 часов, 0 минут, 22 секунд
+2023-02-27 22:38:43 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-6, id = 34, state = RUNNABLE
+2023-02-27 22:38:43 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-6, id = 34, state = RUNNABLE
+2023-02-27 22:38:43 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=STAKE, startDate=2023-02-27T15:38:15, totalTime=28170),[]>rsl = Таймер успешно сохранен
+2023-02-27 22:38:43 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 22:38:43 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-6, id = 34, state = RUNNABLE ------- 0 часов, 0 минут, 28 секунд
+2023-02-27 22:41:30 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-9, id = 37, state = RUNNABLE
+2023-02-27 22:41:30 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-4, id = 32, state = RUNNABLE
+2023-02-27 22:41:31 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-7, id = 35, state = RUNNABLE
+2023-02-27 22:41:39 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-10, id = 38, state = RUNNABLE
+2023-02-27 22:41:39 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-10, id = 38, state = RUNNABLE
+2023-02-27 22:41:40 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=DUMPLINGS, startDate=2023-02-27T15:41:30, totalTime=9666),[]>rsl = Таймер успешно сохранен
+2023-02-27 22:41:40 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 22:41:40 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-10, id = 38, state = RUNNABLE ------- 0 часов, 0 минут, 9 секунд
+2023-02-27 22:41:42 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-2, id = 30, state = RUNNABLE
+2023-02-27 22:41:42 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-2, id = 30, state = RUNNABLE
+2023-02-27 22:41:42 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=CAKE, startDate=2023-02-27T15:41:30, totalTime=11600),[]>rsl = Таймер успешно сохранен
+2023-02-27 22:41:42 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 22:41:42 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-2, id = 30, state = RUNNABLE ------- 0 часов, 0 минут, 11 секунд
+2023-02-27 22:41:44 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-1, id = 29, state = RUNNABLE
+2023-02-27 22:41:44 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-1, id = 29, state = RUNNABLE
+2023-02-27 22:41:44 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=STAKE, startDate=2023-02-27T15:41:31, totalTime=13056),[]>rsl = Таймер успешно сохранен
+2023-02-27 22:41:44 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 22:41:44 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-1, id = 29, state = RUNNABLE ------- 0 часов, 0 минут, 13 секунд
+2023-02-27 22:42:01 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-3, id = 31, state = RUNNABLE
+2023-02-27 22:42:02 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-5, id = 33, state = RUNNABLE
+2023-02-27 22:42:03 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-6, id = 34, state = RUNNABLE
+2023-02-27 22:44:15 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-9, id = 37, state = RUNNABLE
+2023-02-27 22:44:16 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-4, id = 32, state = RUNNABLE
+2023-02-27 22:44:17 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-7, id = 35, state = RUNNABLE
+2023-02-27 22:44:19 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-10, id = 38, state = RUNNABLE
+2023-02-27 22:44:19 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-10, id = 38, state = RUNNABLE
+2023-02-27 22:44:19 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=DUMPLINGS, startDate=2023-02-27T15:44:15, totalTime=4270),[]>rsl = Таймер успешно сохранен
+2023-02-27 22:44:19 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 22:44:19 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-10, id = 38, state = RUNNABLE ------- 0 часов, 0 минут, 4 секунд
+2023-02-27 22:44:21 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-2, id = 30, state = RUNNABLE
+2023-02-27 22:44:21 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-2, id = 30, state = RUNNABLE
+2023-02-27 22:44:21 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=CAKE, startDate=2023-02-27T15:44:16, totalTime=5234),[]>rsl = Таймер успешно сохранен
+2023-02-27 22:44:21 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 22:44:21 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-2, id = 30, state = RUNNABLE ------- 0 часов, 0 минут, 5 секунд
+2023-02-27 22:44:22 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-1, id = 29, state = RUNNABLE
+2023-02-27 22:44:22 DEBUG TimerServiceImpl:104 - ThreadInfo: name = http-nio-8091-exec-1, id = 29, state = RUNNABLE
+2023-02-27 22:44:22 DEBUG ArchivistRequestWrapper:33 - Запрос сохранения сущности с entity: <TimerDto(typeObject=STAKE, startDate=2023-02-27T15:44:17, totalTime=5719),[]>rsl = Таймер успешно сохранен
+2023-02-27 22:44:22 DEBUG TimerServiceImpl:61 - Таймер успешно сохранен
+2023-02-27 22:44:22 DEBUG TimerServiceImpl:106 - ThreadInfo: name = http-nio-8091-exec-1, id = 29, state = RUNNABLE ------- 0 часов, 0 минут, 5 секунд
